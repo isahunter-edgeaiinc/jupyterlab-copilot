@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # jupyterlab_copilot
 
 [![Github Actions Status](https://github.com/isahunter-edgeaiinc/jupyter-copilot.git/workflows/Build/badge.svg)](https://github.com/isahunter-edgeaiinc/jupyter-copilot.git/actions/workflows/build.yml)
@@ -94,3 +95,6 @@ More information are provided within the [ui-tests](./ui-tests/README.md) README
 ### Packaging the extension
 
 See [RELEASE](RELEASE.md)
+=======
+# jupyter-copilot
+>>>>>>> 2494c146dd3a98ba1641f5dfd5e5aad3ed7ae59d
